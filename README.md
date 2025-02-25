@@ -1,1 +1,1 @@
-# Pacman_Path_Finding_Algorithms
+Path_Finding_Algorithms_with_pacman
